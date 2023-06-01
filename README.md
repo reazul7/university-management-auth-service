@@ -22,38 +22,4 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/reazul7/university-management-auto-service
-```
-
-Go to the project directory
-
-```bash
-  cd university-management-auto-service
-```
-
-Install dependencies
-
-```bash
-  yarn
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
-
-
-
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reazul7/)
-
-
-
-
