@@ -11,6 +11,8 @@
 
 **postman:** for testing and building API
 
+**winston:** is used for logger
+
 ## Technology
 **Server:** TypeScript, Express, Mongoose
 
