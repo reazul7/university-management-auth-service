@@ -1,4 +1,4 @@
-# university-management-auto-service
+# university-management-auth-service
 
 ## Tools
 **Jira:** For project management, track all tasks and organize this project 
