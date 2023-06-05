@@ -1,4 +1,4 @@
-# university-management-auto-service
+# university-management-auth-service
 
 ## Tools
 **Jira:** For project management, track all tasks and organize this project 
@@ -10,6 +10,8 @@
 **ts-node-dev:** for allows run my TypeScript code
 
 **postman:** for testing and building API
+
+**winston:** is used for logger
 
 ## Technology
 **Server:** TypeScript, Express, Mongoose
