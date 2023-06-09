@@ -10,8 +10,8 @@ const createUser: RequestHandler = async (req, res, next) => {
       message: "User create successfully!",
       data: result,
     });
-  } catch (err) {
-    next(err);
+  } catch (error) {
+    next(error);
   }
 };
 
